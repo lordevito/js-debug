@@ -16,7 +16,7 @@ function checkAge() {
     const message = '';
 
     if (myAge < 18) {
-        message = `Sei troppo giovane! Hai ${myAge} anni!`;
+        message = `Sei troppo giovane! Hai ${myAge} anni!`; 
     } else {
         message = 'Hai più di 18 anni!';
     }

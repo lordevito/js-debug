@@ -92,4 +92,4 @@ console.log(otherCars);
 // Nella arrow functions "dieselCars" abbiamo lo stesso errore della arrow functions sopra e troviamo delle graffe: le graffe pretendono un return.
 //Come alternativa andrebbero tolte le graffe, così abbiamo il return implicito perchè abbiamo una sola operzione
 //Nell'ultima arrowfunction troviamo lo stesso errore del lowercase, e l'errore sta nel cambiare || con && perchè dobbiamo escluderle tutte e due
-// e non o una o l'altra.
+// e non o una o l'altra. 
